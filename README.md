@@ -10,4 +10,4 @@
 3. Скачиваем архив с программой Крипто ПРО CSP (linux-amd64.tgz) с сайта www.cryptopro.ru
 4. Копируем в каталог /tmp/SXG файл install.sh и скачанный файл linux-amd64.tgz (с сайта www.cryptopro.ru)
 5. Переходим в каталог /tmp/SXG и запускаем скрипт install.sh
-7. ENJOY! :)
+6. ENJOY! :)
